@@ -1,16 +1,36 @@
-### Hi there 👋
+# Acerca de mí
 
-<!--
-**adrivargas/adrivargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Adriana, una desarrolladora web junior apasionada por la creación de soluciones innovadoras y la mejora continua. Mi viaje en el mundo del desarrollo web comenzó hace en la universidad, y desde entonces he estado explorando y aprendiendo constantemente.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de Programación:** HTML, CSS, JavaScript, C++
+- **Frameworks/Librerías:** React.js
+- **Bases de Datos:** MongoDB, Firebase
+- **Control de Versiones:** Git
+- **Herramientas de Desarrollo:** Visual Studio Code, Git, GitHub
+- **Metodologías:** Agile, Scrum
+
+## Experiencia
+
+### Proyectos Destacados
+
+- **TEXT ANALAYZER (https://github.com/adrivargas/DEV013-text-analyzer):** Una aplicación web para contar caracteres en tiempo real.
+
+- **DATA VERSE (https://github.com/adrivargas/DEV013-dataverse):** Otro proyecto interesante donde tengo una cartelera de peliculas y puedo organizarlas por orden alfabetico de manera scendente y descendente, ademas puedo obtener estadisticas de los premios ganados.
+
+## Educación
+
+- **Desarrolladora Web** - Laboratoria
+
+
+## Colaboración
+
+¡Estoy emocionada por colaborar en proyectos innovadores y aprender junto a otros desarrolladores! Si tienes alguna idea o proyecto interesante en mente, no dudes en contactarme. ¡Espero poder contribuir y crecer juntos en el mundo del desarrollo web!
+
+## Contacto
+
+- **LinkedIn:** www.linkedin.com/in/adriana-vargas-53b47b176
+- **Correo Electrónico:** adriandy2005@gmail.com
+
+¡Gracias por visitar mi perfil de GitHub! Estoy emocionada por las oportunidades que el mundo del desarrollo web tiene para ofrecer y espero poder conectar contigo pronto.
