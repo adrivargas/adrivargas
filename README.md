@@ -1,10 +1,10 @@
 # Acerca de mí
 
-¡Hola! Soy Adriana, una desarrolladora web junior apasionada por la creación de soluciones innovadoras y la mejora continua. Mi viaje en el mundo del desarrollo web comenzó hace en la universidad, y desde entonces he estado explorando y aprendiendo constantemente.
+¡Hola! Soy Adriana, una desarrolladora web junior apasionada por la creación de soluciones innovadoras y la mejora continua. Mi viaje en el mundo del desarrollo web comenzó en la universidad, luego continuo en un bootcamp hecho para mujeres > Laboratoria y desde entonces he estado explorando y aprendiendo constantemente.
 
 ## Habilidades
 
-- **Lenguajes de Programación:** HTML, CSS, JavaScript, C++
+- **Lenguajes de Programación:** HTML, CSS, JavaScript, C++, C#
 - **Frameworks/Librerías:** React.js
 - **Bases de Datos:** MongoDB, Firebase
 - **Control de Versiones:** Git
@@ -22,6 +22,7 @@
 ## Educación
 
 - **Desarrolladora Web** - Laboratoria
+- **Desarrollo de Software - UTE
 
 
 ## Colaboración
