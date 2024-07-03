@@ -8,7 +8,7 @@
 - **Frameworks/Librerías:** React.js
 - **Bases de Datos:** MongoDB, Firebase
 - **Control de Versiones:** Git
-- **Herramientas de Desarrollo:** Visual Studio Code, Git, GitHub
+- **Herramientas de Desarrollo:** Visual Studio Code, Visual Studio, Git, GitHub
 - **Metodologías:** Agile, Scrum
 
 ## Experiencia
